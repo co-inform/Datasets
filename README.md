@@ -3,8 +3,8 @@
 
 | Label | Number | 
 |-------|--------|
-| credible | ... |
-| credible_uncertain | ... |
-| mostly_credible | ... |
-| not_credible | ... |
-| not_verifiable | ... |
+| credible | 14 |
+| credible_uncertain | 108 |
+| mostly_credible | 50 |
+| not_credible | 61 |
+| not_verifiable | 15 |
