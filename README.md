@@ -8,3 +8,12 @@
 | mostly_credible | 50 |
 | not_credible | 61 |
 | not_verifiable | 15 |
+
+## coinform4550 dataset
+| Label | Train | Test |
+|-------|--------|--------|
+| credible |  | |
+| credible_uncertain |  | |
+| mostly_credible |  | |
+| not_credible |  | |
+| not_verifiable |  | |
