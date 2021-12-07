@@ -10,10 +10,10 @@
 | not_verifiable | 15 |
 
 ## coinform4550 dataset
-| Label | Train | Test |
+| Label | Train | Test | Rest |
 |-------|--------|--------|
-| credible |  | |
-| credible_uncertain |  | |
-| mostly_credible |  | |
-| not_credible |  | |
-| not_verifiable |  | |
+| credible |  | | |
+| credible_uncertain |  | | |
+| mostly_credible |  | | |
+| not_credible |  | | |
+| not_verifiable |  | | |
