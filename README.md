@@ -11,7 +11,7 @@
 
 ## coinform4550 dataset
 | Label | Train | Test | Rest |
-|-------|--------|--------|
+|-------|--------|--------|--------|
 | credible |  | | |
 | credible_uncertain |  | | |
 | mostly_credible |  | | |
